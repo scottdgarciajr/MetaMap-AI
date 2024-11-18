@@ -52,12 +52,21 @@ Replace "your-openai-api-key" with your actual API key.
 
 **Run MetaMap AI**
 bash
+
 Copy code
-python metamap_ai.py
+
+```python metamap_ai.py```
+
 **Workflow**
 Input Target:
-Enter the target IP/range and optional Nmap scan options (default: -T4 -sV).
+
+Enter the target IP/range and optional Nmap scan options (default: ```-T4 -sV```).
+
 Review Results:
+
 View parsed Nmap results and AI-suggested Metasploit commands.
+
 Execute Commands:
+
 Optionally execute Metasploit commands or save them for manual use.
+
