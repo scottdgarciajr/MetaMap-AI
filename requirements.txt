@@ -1,0 +1,6 @@
+openai==0.27.8
+nmap==1.5.0
+colorama==0.4.6
+termcolor==2.3.0
+pyyaml==6.0
+metasploit-py==0.1.0
