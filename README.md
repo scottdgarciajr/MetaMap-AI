@@ -39,7 +39,7 @@ MetaMap AI is a Python-based tool that combines the power of **Nmap**, **Metaspl
 ### **Setup**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/MetaMap-AI.git
+   git clone https://github.com/scottdgarciajr/MetaMap-AI.git
    cd MetaMap-AI
 2. Install dependencies:
 bash
